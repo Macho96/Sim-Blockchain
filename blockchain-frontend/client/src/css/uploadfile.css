@@ -1,0 +1,17 @@
+
+    .FilesDragAndDrop {
+      width: 300px;
+      height: 200px;
+      /*padding: 50px;*/
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-flow: column nowrap;
+      font-size: 24px;
+      color: #555555;
+      border: 2px #c3c3c3 dashed;
+      border-radius: 12px;
+  
+    
+    }
+

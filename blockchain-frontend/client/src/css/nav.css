@@ -1,0 +1,37 @@
+
+.navigation {
+  background-color:#60909F;
+  color: #ffffff;
+}
+.brand-name {
+  text-decoration: none;
+  color: #D3F1FB;
+  margin-left: 50px;
+}
+.navigation-menu {
+  margin-left: auto;
+}
+.navigation-menu ul {
+  display: flex;
+   margin: 0px;
+}
+.navigation-menu li {
+  list-style-type: none;
+  margin: 0 1rem;
+}
+.navigation-menu li a {
+  text-decoration: none;
+  display: block;
+  width: 100%;
+  margin-top: 8px;
+}
+a:link,a:visited
+{
+    color: #ffffff;
+    text-decoration: none;
+}
+ a:hover
+{
+    color: #12876f;
+    text-decoration: none;
+}
